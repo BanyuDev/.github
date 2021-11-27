@@ -1,2 +1,1 @@
-# .github
-Some things about our organization
+We ♡ develop apps.
