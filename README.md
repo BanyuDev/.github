@@ -1,3 +1,0 @@
-# .github
-
-We ♡ develop apps.
